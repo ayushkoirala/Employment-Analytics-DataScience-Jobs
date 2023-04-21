@@ -18,6 +18,8 @@
 
 <p align="center"><img src="Figure/image-1.png"></p>
 
+Here, is the dataset sample before preprocessing. Fig: Scraped raw data from Glassdoor
+
 ## Preprocessing on Dataset:
 * Basic Cleanings:
     * Drop duplicate data and fill NaN values where possible
@@ -37,14 +39,15 @@
 ## Some of the snapshot of preprocessing
 
 <p align="center"><img src="Figure/image-2.png"></p>
-
-<p align="center"><img src="Figure/image-3.png"></p>
+Figue:  Parsing numeric data from salary column
 
 <p align="center"><img src="Figure/image-4.png"></p>
+Figure: Parsing Rating out of Company Name
 
-<p align="center"><img src="Figure/image-5.png"></p>
 
 <p align="center"><img src="Figure/image-7.png"></p>
+Figure: Created separate columns for different skills extracted from Job Description
+
 
 ## Key Focus Areas
 
@@ -54,8 +57,8 @@
 
 ## Dataset information:
 
-|No.|	Column |Name |	Description|
-|---|  ---     |----|-----|
+|No.|	Column Name |	Description|
+|---|  ---     |-----|
 |1|	Job Title|	The title of job, e.g., Data Scientist, junior data scientist, etc.|
 |2|	Salary |Estimate	Range of salary and the source|
 |3|	Job Description	|Tells us what is expected out of the job title|

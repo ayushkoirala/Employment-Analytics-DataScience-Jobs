@@ -12,6 +12,7 @@
 * Keras
 * Scikit Learn
 * Tab py
+* Anaconda Navigator 
 
 
 ## Dataset Sample
@@ -104,3 +105,9 @@ Here, is the dataset sample before preprocessing. Fig: Scraped raw data from Gla
 We utilize four models for salary prediction: Lasso Multinomial Linear Regression, Random Forest, Linear Regression, and Artificial Neural Network (ANN). In the dashboard, data scientist skills such as Excel, SQL, Hadoop, and BI are merged with necessary characteristics such as job location, size, industry, sector, type of ownership, etc. that were retrieved from preprocessing for estimating compensation through the three models previously described.
 
 <p align="center"><img src="Figure/tab3.png"></p>
+
+# Model :
+* Linear Regression: 
+Linear Regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables. The goal of Linear Regression is to find the best fit line that can predict the dependent variable based on the independent variables. The line is represented by an equation of the form y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope of the line, and b is the y-intercept.
+
+

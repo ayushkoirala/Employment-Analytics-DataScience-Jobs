@@ -39,14 +39,13 @@ Here, is the dataset sample before preprocessing. Fig: Scraped raw data from Gla
 ## Some of the snapshot of preprocessing
 
 <p align="center"><img src="Figure/image2.png"></p>
-Figue:  Parsing numeric data from salary column
+
 
 <p align="center"><img src="Figure/image4.png"></p>
-Figure: Parsing Rating out of Company Name
+
 
 
 <p align="center"><img src="Figure/image7.png"></p>
-Figure: Created separate columns for different skills extracted from Job Description
 
 
 ## Key Focus Areas

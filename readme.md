@@ -67,7 +67,7 @@
 |9	|Founded	Year| the company was founded in|
 |10	|Type Of Ownership|	Company is private, public, or government-owned|
 |11	|Industry|	Industry of the company|
-|13	||Revenue	|Total revenue of the company per year|
+|13	|Revenue	|Total revenue of the company per year|
 |14	|Degree	Experience| credit for master (M) or Ph.D degree (P)|
 |15	|min_salary|	Lower salary reported for the job in a particular company|
 |16	|max_salary	|Upper salary reported for the job in a particular company|
@@ -99,7 +99,6 @@
 <p align="center"><img src="Figure/tab2.png"></p>
 
 ## Salary prediction dashboard
- 
-    We utilize four models for salary prediction: Lasso Multinomial Linear Regression, Random Forest, Linear Regression, and Artificial Neural Network (ANN). In the dashboard, data scientist skills such as Excel, SQL, Hadoop, and BI are merged with necessary characteristics such as job location, size, industry, sector, type of ownership, etc. that were retrieved from preprocessing for estimating compensation through the three models previously described.
+We utilize four models for salary prediction: Lasso Multinomial Linear Regression, Random Forest, Linear Regression, and Artificial Neural Network (ANN). In the dashboard, data scientist skills such as Excel, SQL, Hadoop, and BI are merged with necessary characteristics such as job location, size, industry, sector, type of ownership, etc. that were retrieved from preprocessing for estimating compensation through the three models previously described.
 
 <p align="center"><img src="Figure/tab3.png"></p>

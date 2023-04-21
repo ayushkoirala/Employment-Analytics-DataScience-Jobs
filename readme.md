@@ -15,6 +15,7 @@
 
 
 ## Dataset Sample
+
 <p align="center"><img src="Figure/image-1.png"></p>
 
 ## Preprocessing on Dataset:
@@ -34,10 +35,15 @@
 * Created a Degree column through info extracted from job description column
 
 ## Some of the snapshot of preprocessing
+
 <p align="center"><img src="Figure/image-2.png"></p>
+
 <p align="center"><img src="Figure/image-3.png"></p>
+
 <p align="center"><img src="Figure/image-4.png"></p>
+
 <p align="center"><img src="Figure/image-5.png"></p>
+
 <p align="center"><img src="Figure/image-7.png"></p>
 
 ## Key Focus Areas
@@ -73,17 +79,23 @@
 |22|	Country	|Country where job is posted (all US data)|
 
 ## Exploratory Data Analysis (EDA):
+
 <p align="center"><img src="Figure/image-9.png"></p>
+
 <p align="center"><img src="Figure/image-10.png"></p>
+
 <p align="center"><img src="Figure/image-11.png"></p>
 
 ## Tableau Dashboard Design (Homepage):
+
 <p align="center"><img src="Figure/tab1.png"></p>
 
 ## Descriptive Dashboard (Job Seeker Dashboard)
+
 <p align="center"><img src="Figure/tab4.png"></p>
 
 ## Important Features Dashboard
+
 <p align="center"><img src="Figure/tab2.png"></p>
 
 ## Salary prediction dashboard

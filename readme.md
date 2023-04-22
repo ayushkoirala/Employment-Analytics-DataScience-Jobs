@@ -1,6 +1,8 @@
 # `Employment Analytics: DataScience Jobs`
 
-# AT84.02: Business Intelligence and Analytics
+# AT84.02: Business Intelligence and Analytics 
+
+# Instructor : Dr. Vatcharaporn Esichaikul
 
 ### Dataset Source:
     https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs
@@ -174,10 +176,6 @@ From the implementation of the dashboard as well as the models inside, we mainly
 Learning. In our models, we created 4 models which are: Linear Regression, Lasso Regression, Artificial Neural Network and Random Forest regression. We found the difference of the performance between models, the Random Forest Regressor gave us the most effective result on prediction and Linear Regression the worst among 4 models. We learnt a lot through the analysis of this dataset. We learnt to analyze the data as well as cleanly preprocess it according to our needs. We performed exploratory data analysis to understand the data and pick important features through feature importance.
 We developed our skills in Tableau, TabPy and Python while learning new things like python integration within Tableau to create interactive dashboards with live updates to data. Overall, we learnt many skills through this project and improved our business intelligence skills as well as analytical skills.
 
-
-### Special Thanks 
-
-Dr. Vatcharaporn Esichaikul
 
 
 

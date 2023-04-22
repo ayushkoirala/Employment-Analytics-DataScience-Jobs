@@ -13,7 +13,7 @@
 * Tableau
 * Keras
 * Scikit Learn
-* Tab py
+* TabPy
 * Anaconda Navigator 
 
 

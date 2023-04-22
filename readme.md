@@ -1,6 +1,6 @@
 # `Employment Analytics: DataScience Jobs`
 
-#AT84.02: Business Intelligence and Analytics
+# AT84.02: Business Intelligence and Analytics
 
 ### Dataset Source:
     https://www.kaggle.com/datasets/andrewmvd/data-scientist-jobs
@@ -168,6 +168,11 @@ The "predicted vs actual" plot shows the relationship between the actual target 
 The ideal scenario is when all the points lie on a 45-degree diagonal line, which indicates that the model has predicted the target values perfectly. In your case, the points are relatively close to the diagonal line, which indicates that the model is doing a decent job in predicting the target values.
 The "predicted vs residual" plot shows the relationship between the predicted target values and the residuals. The residual is the difference between the actual target value and the predicted target value. The plot consists of a scatter plot where the x-axis represents the predicted values and the y-axis represents the residuals. 
 <p align="center"><img src="Figure/residual_plot_random_forest.png"></p>
+
+### Conclusion:
+From the implementation of the dashboard as well as the models inside, we mainly developed using TabPy with some connection with the Python script. We also use some instant libraries packed in TabPy such as Numpy, Pandas, and Sci-Kit
+Learning. In our models, we created 4 models which are: Linear Regression, Lasso Regression, Artificial Neural Network and Random Forest regression. We found the difference of the performance between models, the Random Forest Regressor gave us the most effective result on prediction and Linear Regression the worst among 4 models. We learnt a lot through the analysis of this dataset. We learnt to analyze the data as well as cleanly preprocess it according to our needs. We performed exploratory data analysis to understand the data and pick important features through feature importance.
+We developed our skills in Tableau, TabPy and Python while learning new things like python integration within Tableau to create interactive dashboards with live updates to data. Overall, we learnt many skills through this project and improved our business intelligence skills as well as analytical skills.
 
 
 

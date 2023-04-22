@@ -175,6 +175,11 @@ Learning. In our models, we created 4 models which are: Linear Regression, Lasso
 We developed our skills in Tableau, TabPy and Python while learning new things like python integration within Tableau to create interactive dashboards with live updates to data. Overall, we learnt many skills through this project and improved our business intelligence skills as well as analytical skills.
 
 
+### Special Thanks 
+
+Dr. Vatcharaporn Esichaikul
+
+
 
 
 
